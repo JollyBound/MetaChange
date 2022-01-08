@@ -1,0 +1,51 @@
+body {
+  background-color: #121319;
+  height: 2200px ;
+}
+
+
+.logo{
+  position: absolute;
+  width: 241px;
+  height: 56.57px;
+  margin-left: 42.5%;
+
+  margin-top: 1%;
+  overflow: hidden
+}
+
+.tradingview-widget-container{
+  width: 1500px;
+  height: 600px;
+  border-radius: 20px;
+  padding: 10px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 47%;
+  left: 50%;
+  background-color: #17191F
+}
+
+.graph {
+  width: 1500px;
+  height: 300px;
+  border-radius: 20px;
+  padding: 10px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 47%;
+  left: 50%;
+  background-color: #17191F
+}
+
+.info{
+  width: 1500px;
+  height: 1400px;
+  border-radius: 20px;
+  padding: 10px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 158%;
+  left: 50%;
+  background-color: #17191F
+}
