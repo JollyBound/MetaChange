@@ -1,2 +1,2 @@
 # MetaChange
-iFrame based crypto exchange - ChangeNow affiliate
+iFrame based crypto exchange that anyone can integrate to their site - ChangeNow affiliate
